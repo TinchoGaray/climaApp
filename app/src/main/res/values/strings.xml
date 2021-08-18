@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">climaApp</string>
+    <string name="texto_grados">23º</string>
+    <string name="texto_ciudad">Cordoba</string>
+    <string name="texto_clima">Nublado</string>
+    <string name="texto_bienvenida">Bienvenido a la app del clima, para ver el clima de una ciudad selecciona la opción de abajo</string>
+    <string name="texto_boton_cordoba">Clima de la ciudad de Córdoba</string>
+    <string name="texto_boton_londres">Clima de la ciudad de Londres</string>
+</resources>
